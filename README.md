@@ -1,4 +1,5 @@
 # NLPImitation
+![thumbnail_dsxyhheb0dta1](https://user-images.githubusercontent.com/97220909/231605609-c10e0fbc-92d1-4a86-ba4b-72ac89857626.jpg)
 
 I use dynamic arrays to make neural networks which can do NLP tasks. (refactoring...)
 
